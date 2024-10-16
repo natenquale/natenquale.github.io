@@ -1,0 +1,37 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+   
+   .english{
+   text-align:center;
+   }
+
+   .spanish {
+    text-align:center;
+    color: blue;
+   }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+body{
+    background-color: lightcoral;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
